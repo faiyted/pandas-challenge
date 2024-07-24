@@ -100,7 +100,8 @@ Include the following:
 
     -size_bins = [0, 1000, 2000, 5000]
     -labels = ["Small (<1000)", "Medium (1000-2000)", "Large (2000-5000)"]
-    -Use pd.cut on the "Total Students" column of the per_school_summary DataFrame.
+    
+**Use pd.cut on the "Total Students" column of the per_school_summary DataFrame.
 
 **Create a DataFrame called size_summary that breaks down school performance based on school size (small, medium, or large).
 
