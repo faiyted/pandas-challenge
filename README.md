@@ -58,7 +58,7 @@ Include the following:
 **Save the results in a DataFrame called "bottom_schools".
 
 # Math Scores by Grade
-**Perform the necessary calculations to create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+**Create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 # Reading Scores by Grade
 **Create a DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
