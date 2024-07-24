@@ -68,8 +68,8 @@ Include the following:
 
 **Use the code provided below to create four bins with reasonable cutoff values to group school spending.
 
-spending_bins = [0, 585, 630, 645, 680]
-labels = ["<$585", "$585-630", "$630-645", "$645-680"]
+    -spending_bins = [0, 585, 630, 645, 680]
+    -labels = ["<$585", "$585-630", "$630-645", "$645-680"]
 
 **Use pd.cut to categorize spending based on the bins.
 
@@ -98,9 +98,9 @@ labels = ["<$585", "$585-630", "$630-645", "$645-680"]
 # Scores by School Size
 **Use the following code to bin the per_school_summary.
 
-size_bins = [0, 1000, 2000, 5000]
-labels = ["Small (<1000)", "Medium (1000-2000)", "Large (2000-5000)"]
-Use pd.cut on the "Total Students" column of the per_school_summary DataFrame.
+    -size_bins = [0, 1000, 2000, 5000]
+    -labels = ["Small (<1000)", "Medium (1000-2000)", "Large (2000-5000)"]
+    -Use pd.cut on the "Total Students" column of the per_school_summary DataFrame.
 
 **Create a DataFrame called size_summary that breaks down school performance based on school size (small, medium, or large).
 
