@@ -112,6 +112,7 @@ Include the following:
 
 # Written Report 
 **Summarizes the analysis 
+
     - The analysis of various high schools based on several metrics including school type, school size, total students, budget, budget per student, average scores, and passing rates.
     
 **Draws two correct conclusions or comparisons from the calculations
