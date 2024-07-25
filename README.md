@@ -118,4 +118,4 @@ Include the following:
 
     -1. Overall Charter school type has higer Passing Rate comparse to Distric School Type. (See the Scools by School type summary)
     
-    -2. Schoold size also has big impacted on passing rate in general. When school size is large size(2000-5000), the overall passing rate drops significantly.Large school
+    -2. Schoold size also has big impacted on passing rate in general. When school size is large size(2000-5000), the overall passing rate drops significantly. Large school size are often under district school type
